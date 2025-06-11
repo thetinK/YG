@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="UI\BinIP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FlickerFreePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="UI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormGg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormIpList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\userlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

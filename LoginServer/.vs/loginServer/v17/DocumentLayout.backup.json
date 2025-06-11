@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\utilities\\comprehensivelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:utilities\\comprehensivelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\utilities\\connectionextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:utilities\\connectionextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\core\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:core\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\utilities\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:utilities\\extra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\ui\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:ui\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\network\\clients\\sockclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:network\\clients\\sockclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\servermanagement\\sevconnclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:servermanagement\\sevconnclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\authentication\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:authentication\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\authentication\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:authentication\\players.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\database\\dba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:database\\dba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\ui\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:ui\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\network\\servers\\attackserverconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:network\\servers\\attackserverconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|d:\\server\\yulgang\\yulgangv23\\loginserver\\ui\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B64DD742-ADA3-49BA-8E90-06A9A2E67932}|LoginServer.csproj|solutionrelative:ui\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "World.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Core\\World.cs",
+              "RelativeDocumentMoniker": "Core\\World.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Core\\World.cs",
+              "RelativeToolTip": "Core\\World.cs",
+              "ViewState": "AgIAAMkDAAAAAAAAAADwv7oDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:49:00.914Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConnectionExtra.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Utilities\\ConnectionExtra.cs",
+              "RelativeDocumentMoniker": "Utilities\\ConnectionExtra.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Utilities\\ConnectionExtra.cs",
+              "RelativeToolTip": "Utilities\\ConnectionExtra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:27:35.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userlist.cs [Design]",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\userlist.cs",
+              "RelativeDocumentMoniker": "UI\\userlist.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\userlist.cs [Design]",
+              "RelativeToolTip": "UI\\userlist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:27:31.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SevConnClass.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\ServerManagement\\SevConnClass.cs",
+              "RelativeDocumentMoniker": "ServerManagement\\SevConnClass.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\ServerManagement\\SevConnClass.cs",
+              "RelativeToolTip": "ServerManagement\\SevConnClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:16:10.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComprehensiveLogger.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Utilities\\ComprehensiveLogger.cs",
+              "RelativeDocumentMoniker": "Utilities\\ComprehensiveLogger.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Utilities\\ComprehensiveLogger.cs",
+              "RelativeToolTip": "Utilities\\ComprehensiveLogger.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAADQBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:17:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBA.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Database\\DBA.cs",
+              "RelativeDocumentMoniker": "Database\\DBA.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Database\\DBA.cs",
+              "RelativeToolTip": "Database\\DBA.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwNMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:55:38.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerS.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Authentication\\PlayerS.cs",
+              "RelativeDocumentMoniker": "Authentication\\PlayerS.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Authentication\\PlayerS.cs",
+              "RelativeToolTip": "Authentication\\PlayerS.cs",
+              "ViewState": "AgIAAD8BAAAAAAAAAAAtwFIBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:52:54.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Authentication\\Player.cs",
+              "RelativeDocumentMoniker": "Authentication\\Player.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Authentication\\Player.cs",
+              "RelativeToolTip": "Authentication\\Player.cs",
+              "ViewState": "AgIAAMUBAAAAAAAAAAAkwOEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:17:12.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "UI\\MainForm.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\MainForm.cs",
+              "RelativeToolTip": "UI\\MainForm.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAUwAsBAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:05:58.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\MainForm.resx",
+              "RelativeDocumentMoniker": "UI\\MainForm.resx",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\MainForm.resx",
+              "RelativeToolTip": "UI\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-09T15:05:55.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "userlist.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\userlist.cs",
+              "RelativeDocumentMoniker": "UI\\userlist.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\UI\\userlist.cs",
+              "RelativeToolTip": "UI\\userlist.cs",
+              "ViewState": "AgIAAGkEAAAAAAAAAAD4v4YEAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:01:55.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extra.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Utilities\\Extra.cs",
+              "RelativeDocumentMoniker": "Utilities\\Extra.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Utilities\\Extra.cs",
+              "RelativeToolTip": "Utilities\\Extra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:27:10.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AttackServerConnector.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Network\\Servers\\AttackServerConnector.cs",
+              "RelativeDocumentMoniker": "Network\\Servers\\AttackServerConnector.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Network\\Servers\\AttackServerConnector.cs",
+              "RelativeToolTip": "Network\\Servers\\AttackServerConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:00:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SockClient.cs",
+              "DocumentMoniker": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Network\\Clients\\SockClient.cs",
+              "RelativeDocumentMoniker": "Network\\Clients\\SockClient.cs",
+              "ToolTip": "D:\\Server\\Yulgang\\YulgangV23\\LoginServer\\Network\\Clients\\SockClient.cs",
+              "RelativeToolTip": "Network\\Clients\\SockClient.cs",
+              "ViewState": "AgIAALoCAAAAAAAAAAAkwBoDAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:49:07.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
